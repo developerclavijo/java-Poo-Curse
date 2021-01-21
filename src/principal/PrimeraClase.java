@@ -10,7 +10,6 @@ public class PrimeraClase {
     Largo
     */
     public static void main(String[] args) {
-
         System.out.println("Hola, Soy Ronny \ny seré tu instructor \tde este curso :)");
         System.err.println("Espero \nPongas \tEmpeño");
     }
