@@ -1,0 +1,102 @@
+Temario:
+- Introducción a Java.
+- Tú primer programa.
+- Compilando y Ejecutando.
+- Comentarios en Java.
+- Variables y tipos de Variables en Java.
+- Incremento y Decremento en Java.
+- Operadores Lógicos.
+- Entrada y salida de datos.
+- ejercicios de toda la sección.
+
+///////////
+Estructuras de control en Java.
+- Condicionales:
+  * If.
+  * If Else.
+  * Operador ternario.
+  * Condiciones anidadas.
+  * Condiciones Multiples.
+  * Condiciones Multiples con Switch.
+  * Ejercicios al término de una clase
+- Bucles:
+  * While.
+  * Do While.
+  * For.
+  * For Each.
+  * Break, Continue y Pause.
+  * Ejercicios al término de una clase
+- Almacenadoras:
+  * Arreglos.
+  * Listas
+  * Matriz.
+  * Matriz Multidimencional.
+  * Ejercicios al término de una clase
+- Funciones o métodos en Java.
+  * Definiendo nuestro primer método.
+  * Modifcadores de acceso
+  * Contexto estático
+  * variables constantes
+  * Parámetros y argumentos en un métodos.
+  * métodosque retornan valor.
+  * Sobrecarga de métodos.
+  * Ejercicios al término de una clase
+- Clases en Java:
+  * Math
+  * String
+  * StringBuilder
+  * Ejercicios al término de una clase
+- Ejercicios en Java:
+  * Ejercicios con condicionales
+  * Ejercicios con bucles
+  * Ejercicios variados
+
+Programación Orientada a Objetos - POO:
+- Introducción a POO:
+  * ¿Qué es un Objeto?
+  * ¿Que es una clase?
+  * ¿Por que es importante trabajar en POO.
+  * Ejercicios al término de una clase
+- Clases y Objetos en POO:
+  * Clases.
+  * Objetos.
+  * Paquetes o capas.
+  * Constructores.
+  * Sobrecarga de Constructores.
+  * This en Java.
+  * Variables y objetos con new.
+  * Ejercicios al término de una clase
+- Seguridad en Java => Encapsulamiento:
+  * ¿Que es e importancia?
+  * Métodos getters y setters.
+  * método toString().
+  * Ejercicios al término de una clase
+- Herencia en Java:
+  * ¿Qué es?
+  * Clases padres e hijas.
+  * modificador de acceso protected
+  * Ejecutando la herencia
+  * Ejercicios al término de una clase
+- Herencia "multiple" con Interfaces:
+  * ¿Qué es una interfaz?
+  * ¿Cómo es la herencia multiple?
+  * Ejercicios al término de una clase
+- Polimorfimo:
+  * ¿Qué es?
+  * Usando el polimorfismo.
+  * instanceOf.
+  * Conversión de Objetos o Casting.
+  * Equals.
+  * hashCode.
+  * Ejercicios al término de una clase
+- Enumeraciones y cases Abstractas:
+  * ¿Que es una enumeración?
+  * Valores en la Enumeración.
+  * Clases abstractas.
+  * Ejercicios al término de una clase
+- Manejo de exepciones:
+  * Errores.
+  * Try Catch.
+  * Try Catch Finally.
+  * Ejercicios al término de una clase
+- POO proyecto final
