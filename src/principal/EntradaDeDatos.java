@@ -1,6 +1,5 @@
 package principal;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class EntradaDeDatos {
