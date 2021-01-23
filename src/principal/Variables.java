@@ -15,6 +15,15 @@ public class Variables {
     long n7 = 1818161919;*/
 
     //////////////// Java 11 =>
+
+    //
+    /**/
+
+    /**
+     * @param args
+     * @autor Clavijo
+     * @date 22-01-2021
+     */
     public static void main(String[] args) {
         /*var n1 = 4; //int
         var n2 = 4.5; //double
@@ -37,10 +46,10 @@ public class Variables {
         //System.out.println("resultado = " + resultado);
 
         var n = 5;
-        var n2 = "5";
-        var resultado = n + Integer.parseInt(n2);
+        //var n2 = "5";
+        //var resultado = n + Integer.parseInt(n2);
 
-        System.out.println("resultado = " + resultado);
+        //System.out.println("resultado = " + resultado);
 
         //var ng = 4;
         //String ng2 = "6";
@@ -56,6 +65,44 @@ public class Variables {
         //Clases en Java => ParaValidar:
         System.out.println("nombre = " + nombre.replace('a', 'e'));
 
+        //variables numericas
+        int n1 = 1566999999;
+        byte n2 = 127;
+        short n3 = 9999;
+        long n4 = 999999999;
+
+        float n5 = 15.5F;
+        double n6 = 15.5;
+
+        //variables de texto
+        String cadena1 = "Hola ¿que tal?";
+        char caracter = 'B';
+
+        //variables de dos valores
+        boolean boleano = true;
+        boolean boleano2 = false;
+
+        ///////////// JDK 11 =>
+        var n7 = 12;
+        var n8 = 12.5;
+        var cadena3 = "Hola a todos";
+        var caracter1 = 'A';
+        var boleano3 = true;
+        boleano3 = false;
+        boleano3 = true;
+
+        n8 = 14.6F;
+
+        n7 = n7 + 1;
+        n8 = n8 - 1;
+
+        n7++;
+        n8--;
+        System.out.println("Números: " + "n1 = " + n1 + " n2 = " + n2 + " n3 = " + n3 + " n4 = " + n4 + " n5 = " + n5
+                + " n6 = " + n6 + " n7 " + n7 + " n8 " + n8
+                + "\nCadenas: " + " cadena1 = " + cadena1 + " cadena3" + cadena3 +
+                "\nCaracteres: " + caracter + " caracter1 = " + caracter1
+                + "\nboleanos: " + " boleano = " + boleano + " boleano2 = " + boleano2 + " boleano3 = " + boleano3);
     }
 
 }
