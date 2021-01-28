@@ -12,9 +12,9 @@ Temario:
 ///////////
 Estructuras de control en Java.
 - Condicionales:
-  * If.
-  * If Else.
-  * Operador ternario.
+  * If. --
+  * If Else. --
+  * Operador ternario. --
   * Condiciones anidadas.
   * Condiciones Multiples.
   * Condiciones Multiples con Switch.
