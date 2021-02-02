@@ -15,9 +15,9 @@ Estructuras de control en Java.
   * If. --
   * If Else. --
   * Operador ternario. --
-  * Condiciones anidadas.
-  * Condiciones Multiples.
-  * Condiciones Multiples con Switch.
+  * Condiciones anidadas. --
+  * Condiciones Multiples. --
+  * Condiciones Multiples con Switch --
   * Ejercicios al término de una clase
 - Bucles:
   * While.
