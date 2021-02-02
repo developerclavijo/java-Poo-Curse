@@ -18,10 +18,10 @@ Estructuras de control en Java.
   * Condiciones anidadas. --
   * Condiciones Multiples. --
   * Condiciones Multiples con Switch --
-  * Ejercicios al término de una clase
+  * Ejercicios al término de una clase --
 - Bucles:
-  * While.
-  * Do While.
+  * While. -- 
+  * Do While. --
   * For.
   * For Each.
   * Break, Continue y Pause.
