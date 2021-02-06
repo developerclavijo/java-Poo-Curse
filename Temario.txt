@@ -22,10 +22,10 @@ Estructuras de control en Java.
 - Bucles:
   * While. -- 
   * Do While. --
-  * For.
+  * For. --
   * For Each.
-  * Break, Continue y Pause.
-  * Ejercicios al término de una clase
+  * Break, Continue y Pause. ---
+  * Ejercicios al término de una clase --
 - Almacenadoras:
   * Arreglos.
   * Listas
@@ -33,8 +33,8 @@ Estructuras de control en Java.
   * Matriz Multidimencional.
   * Ejercicios al término de una clase
 - Funciones o métodos en Java.
-  * Definiendo nuestro primer método.
-  * Modifcadores de acceso
+  * Definiendo nuestro primer método.--
+  * Modifcadores de acceso --
   * Contexto estático
   * variables constantes
   * Parámetros y argumentos en un métodos.
@@ -44,7 +44,6 @@ Estructuras de control en Java.
 - Clases en Java:
   * Math
   * String
-  * StringBuilder
   * Ejercicios al término de una clase
 - Ejercicios en Java:
   * Ejercicios con condicionales
