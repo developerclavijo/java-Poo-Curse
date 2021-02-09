@@ -1,0 +1,33 @@
+¿Que es un objeto?
+Es algo que se puede representar en la vida real
+
+¿Que es una clase?
+Una clase es un modelo de lo que se representa en la vida real
+
+class Persona {
+    //atributos
+    nombre;
+    apellidos;
+    telefono;
+    edad;
+    fechaNacimiento;
+
+    //Constructor
+
+
+    //metodos
+    Son las funciones que las personas pueden hacer
+    comer(){
+
+    }
+    caminar(){
+
+    }
+    hablar(){
+
+    }
+}
+
+¿Por que es importante trabajar con POO?
+Permite el poder crear o relacionar clases con mas clases y poder hacer programas mas complejos con poco código
+

@@ -35,15 +35,15 @@ Estructuras de control en Java.
 - Funciones o métodos en Java.
   * Definiendo nuestro primer método.--
   * Modifcadores de acceso --
-  * Contexto estático
-  * variables constantes
-  * Parámetros y argumentos en un métodos.
-  * métodosque retornan valor.
-  * Sobrecarga de métodos.
-  * Ejercicios al término de una clase
+  * Contexto estático --
+  * variables constantes --
+  * Parámetros y argumentos en un métodos. --
+  * métodosque retornan valor. --
+  * Sobrecarga de métodos. --
+  * Ejercicios al término de una clase --
 - Clases en Java:
   * Math
-  * String
+  * String--
   * Ejercicios al término de una clase
 - Ejercicios en Java:
   * Ejercicios con condicionales
@@ -52,12 +52,12 @@ Estructuras de control en Java.
 
 Programación Orientada a Objetos - POO:
 - Introducción a POO:
-  * ¿Qué es un Objeto?
-  * ¿Que es una clase?
-  * ¿Por que es importante trabajar en POO.
-  * Ejercicios al término de una clase
+  * ¿Qué es un Objeto? --
+  * ¿Que es una clase? --
+  * ¿Por que es importante trabajar en POO?. --
+  * Ejercicios al término de una clase --
 - Clases y Objetos en POO:
-  * Clases.
+  * Clases. --
   * Objetos.
   * Paquetes o capas.
   * Constructores.

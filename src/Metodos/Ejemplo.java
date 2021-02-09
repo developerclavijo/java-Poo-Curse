@@ -1,5 +1,6 @@
 package Metodos;
 
+
 public class Ejemplo {
     public static void main(String[] args) {
         var metodosJava = new MetodosJava();
@@ -27,5 +28,6 @@ public class Ejemplo {
         System.out.println(MetodosJava.C);
 
         MetodosJava.saludar();
+
     }
 }
