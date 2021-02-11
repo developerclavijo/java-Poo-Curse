@@ -2,10 +2,10 @@ package POO.ClasesYObjetos;
 
 public class Persona {
     //Atributos
-    public String nombre;
-    public String apellidos;
-    public int edad;
-    public String fechaNacimiento;
+    private String nombre;
+    private String apellidos;
+    private int edad;
+    private String fechaNacimiento;
 
     //contructor
     public Persona(String nom, String ape, int age, String nacimiento) {
@@ -25,6 +25,39 @@ public class Persona {
         System.out.println("nom = " + nom);
     }
 
+    //getters y setters
+    public String getNombre() {
+        return this.nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getApellidos() {
+        return this.apellidos;
+    }
+
+    public void setApellidos(String apellidos) {
+        this.apellidos = apellidos;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public String getFechaNacimiento() {
+        return fechaNacimiento;
+    }
+
+    public void setFechaNacimiento(String fechaNacimiento) {
+        this.fechaNacimiento = fechaNacimiento;
+    }
+
     //funciones
     public void comer() {
         System.out.println("Wstoy comiendo");
@@ -32,6 +65,16 @@ public class Persona {
 
     public void caminar() {
         System.out.println("Estoy caminando");
+    }
+
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "nombre='" + nombre + '\'' +
+                ", apellidos='" + apellidos + '\'' +
+                ", edad=" + edad +
+                ", fechaNacimiento='" + fechaNacimiento + '\'' +
+                '}';
     }
 
 }

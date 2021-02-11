@@ -5,33 +5,37 @@ import POO.ClasesYObjetos.Animal;
 public class TestAnimal {
     public static void main(String[] args) {
         var gato = new Animal("Minino", "Gato", "Marrón");
+        System.out.println(gato);
+
+        System.out.println("----------------------------------");
+
         var perro = new Animal("Firualis");
         gato.comer();
 
         System.out.println("----------------------------------");
-        System.out.println("Nombre: " + gato.nombre
-                + "\nTipo: " + gato.tipo
-                + "\nColor: " + gato.color);
+        System.out.println("Nombre: " + gato.getNombre()
+                + "\nTipo: " + gato.getTipo()
+                + "\nColor: " + gato.getColor());
 
         System.out.println("----------------------------------");
         gato.dormir();
-        gato.color = "Anaranjado";
+        gato.setColor("Anaranjado");
 
         System.out.println("----------------------------------");
-        System.out.println("Nombre: " + gato.nombre
-                + "\nTipo: " + gato.tipo
-                + "\nColor: " + gato.color);
+        System.out.println("Nombre: " + gato.getNombre()
+                + "\nTipo: " + gato.getTipo()
+                + "\nColor: " + gato.getColor());
 
         System.out.println("----------------------------------");
-        System.out.println("Nombre: " + perro.nombre
-                + "\nTipo: " + perro.tipo
-                + "\nColor: " + perro.color);
+        System.out.println("Nombre: " + perro.getNombre()
+                + "\nTipo: " + perro.getTipo()
+                + "\nColor: " + perro.getColor());
 
-        perro.tipo = "Perro";
-        perro.color = "Manchado";
+        perro.setTipo("Perro");
+        perro.setColor("Manchado");
         System.out.println("----------------------------------");
-        System.out.println("Nombre: " + perro.nombre
-                + "\nTipo: " + perro.tipo
-                + "\nColor: " + perro.color);
+        System.out.println("Nombre: " + perro.getNombre()
+                + "\nTipo: " + perro.getTipo()
+                + "\nColor: " + perro.getColor());
     }
 }

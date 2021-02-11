@@ -21,41 +21,40 @@ public class TestPersona {
 
         System.out.println("-------- Juan ------------");
 
-        System.out.println("Nombre: " + juan.nombre +
-                "\nApellido: " + juan.apellidos
-                + "\nEdad: " + juan.edad
-                + "\nNacimiento: " + juan.fechaNacimiento);
+        System.out.println("Nombre: " + juan.getNombre() +
+                "\nApellido: " + juan.getApellidos()
+                + "\nEdad: " + juan.getEdad()
+                + "\nNacimiento: " + juan.getFechaNacimiento());
 
         System.out.println("-------- Juan ------------");
 
-        juan.nombre = "Martín";
+        juan.setNombre("Martín");
 
-        System.out.println("Nombre: " + juan.nombre +
-                "\nApellido: " + juan.apellidos
-                + "\nEdad: " + juan.edad
-                + "\nNacimiento: " + juan.fechaNacimiento);
-
-        System.out.println("--------- Maria -----------");
-
-        System.out.println("Nombre: " + maria.nombre +
-                "\nApellido: " + maria.apellidos
-                + "\nEdad: " + maria.edad
-                + "\nNacimiento: " + maria.fechaNacimiento);
+        System.out.println("Nombre: " + juan.getNombre() +
+                "\nApellido: " + juan.getApellidos()
+                + "\nEdad: " + juan.getEdad()
+                + "\nNacimiento: " + juan.getFechaNacimiento());
 
         System.out.println("--------- Maria -----------");
-        maria.edad = 18;
 
-        System.out.println("Nombre: " + maria.nombre +
-                "\nApellido: " + maria.apellidos
-                + "\nEdad: " + maria.edad
-                + "\nNacimiento: " + maria.fechaNacimiento);
+        System.out.println("Nombre: " + maria.getNombre() +
+                "\nApellido: " + maria.getApellidos()
+                + "\nEdad: " + maria.getEdad()
+                + "\nNacimiento: " + maria.getFechaNacimiento());
+
+        System.out.println("--------- Maria -----------");
+        maria.setEdad(18);
+
+        System.out.println("Nombre: " + maria.getNombre() +
+                "\nApellido: " + maria.getApellidos()
+                + "\nEdad: " + maria.getEdad()
+                + "\nNacimiento: " + maria.getFechaNacimiento());
 
         System.out.println("--------- Marcelo -----------");
 
-        System.out.println("Nombre: " + marcelo.nombre +
-                "\nApellido: " + marcelo.apellidos
-                + "\nEdad: " + marcelo.edad
-                + "\nNacimiento: " + marcelo.fechaNacimiento);
-
+        System.out.println("Nombre: " + marcelo.getNombre() +
+                "\nApellido: " + marcelo.getApellidos()
+                + "\nEdad: " + marcelo.getEdad()
+                + "\nNacimiento: " + marcelo.getFechaNacimiento());
     }
 }

@@ -23,15 +23,15 @@ Estructuras de control en Java.
   * While. -- 
   * Do While. --
   * For. --
-  * For Each.
+  * For Each. --
   * Break, Continue y Pause. ---
   * Ejercicios al término de una clase --
 - Almacenadoras:
-  * Arreglos.
-  * Listas
-  * Matriz.
-  * Matriz Multidimencional.
-  * Ejercicios al término de una clase
+  * Arreglos. --
+  * Listas --
+  * Matriz. --
+  * Matriz Multidimencional. --
+  * Ejercicios al término de una clase --
 - Funciones o métodos en Java.
   * Definiendo nuestro primer método.--
   * Modifcadores de acceso --
@@ -58,17 +58,17 @@ Programación Orientada a Objetos - POO:
   * Ejercicios al término de una clase --
 - Clases y Objetos en POO:
   * Clases. --
-  * Objetos.
-  * Paquetes o capas.
-  * Constructores.
-  * Sobrecarga de Constructores.
-  * This en Java.
-  * Variables y objetos con new.
-  * Ejercicios al término de una clase
-- Seguridad en Java => Encapsulamiento:
-  * ¿Que es e importancia?
-  * Métodos getters y setters.
-  * método toString().
+  * Objetos. --
+  * Paquetes o capas. --
+  * Constructores. --
+  * Sobrecarga de Constructores. --
+  * This en Java. --
+  * Variables y objetos con new. --
+  * Ejercicios al término de una clase --
+- Seguridad en Java => Encapsulamiento: --
+  * ¿Que es e importancia? --
+  * Métodos getters y setters. --
+  * método toString(). --
   * Ejercicios al término de una clase
 - Herencia en Java:
   * ¿Qué es?
